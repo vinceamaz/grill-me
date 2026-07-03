@@ -1,0 +1,28 @@
+{
+  "name": "grill-me",
+  "description": "Stress-test a plan or design through relentless one-at-a-time questioning until you reach shared understanding.",
+  "owner": {
+    "name": "vinceamaz"
+  },
+  "plugins": [
+    {
+      "name": "grill-me",
+      "source": "./",
+      "description": "Interview relentlessly about every aspect of a plan until shared understanding. One question at a time, with recommended answers.",
+      "author": {
+        "name": "vinceamaz"
+      },
+      "homepage": "https://github.com/vinceamaz/grill-me",
+      "repository": "https://github.com/vinceamaz/grill-me",
+      "license": "MIT",
+      "keywords": [
+        "planning",
+        "design-review",
+        "architecture",
+        "brainstorming",
+        "interview"
+      ],
+      "category": "productivity"
+    }
+  ]
+}

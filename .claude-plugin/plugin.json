@@ -1,0 +1,6 @@
+{
+  "name": "grill-me",
+  "version": "1.0.0",
+  "description": "Stress-test a plan or design through relentless one-at-a-time questioning until you reach shared understanding.",
+  "commands": ["./SKILL.md"]
+}

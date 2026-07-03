@@ -34,7 +34,7 @@ claude --plugin-dir /path/to/grill-me
 Then invoke:
 
 ```text
-/grill-me:grill-me
+/grill-me
 ```
 
 ## Usage
@@ -42,7 +42,7 @@ Then invoke:
 Start a grilling session when you have a plan or design to stress-test:
 
 ```text
-/grill-me:grill-me
+/grill-me
 
 I want to add a caching layer to our API. Grill me on the design.
 ```
@@ -56,9 +56,7 @@ grill-me/
 ├── .claude-plugin/
 │   ├── plugin.json       # Plugin manifest
 │   └── marketplace.json  # Marketplace registry (for distribution)
-├── skills/
-│   └── grill-me/
-│       └── SKILL.md      # Skill instructions
+├── SKILL.md              # Skill instructions
 └── README.md
 ```
 
